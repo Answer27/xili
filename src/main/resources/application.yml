@@ -1,0 +1,3 @@
+smartTalk: 
+  qa_url: https://nlsapi.aliyun.com/qas
+  qa_manage_url: https://nlsapi.aliyun.com/manage/qas
